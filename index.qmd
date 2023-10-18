@@ -1,5 +1,14 @@
 ---
-title: "Learning_quarto"
+title: "Learning Quarto"
 ---
 
 Hi, my name is Diana
+
+```{r}
+library(tidyverse)
+
+mtcars %>% slice(1)
+
+
+
+```
